@@ -1,7 +1,7 @@
 {
-  "name": "bot-zdg",
+  "name": "api whats full",
   "version": "1.0.0",
-  "description": "bot-zdg: based on Whatsapp API",
+  "description": "bot-zdg: based on Whatsapp API by Full",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -12,7 +12,7 @@
     "whatsapp-api",
     "node.js"
   ],
-  "author": "Pedro",
+  "author": "Felipe Full",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.20.0",

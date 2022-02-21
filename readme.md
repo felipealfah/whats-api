@@ -1,24 +1,24 @@
-# BOT ZDG
+# BOT ZDG - Full
 
-Hi, this is the implementation example of <a href="https://github.com/pedroslopez/whatsapp-web.js">whatsapp-web.js</a>
+Essa é uma implementação com base na API do <a href="https://github.com/pedroslopez/whatsapp-web.js">whatsapp-web.js</a>
 
-Watch the tutorials:
+Tutoriais para aprender mais sobre essa API podem ser visatas no link:
 
 - <a href="https://www.youtube.com/channel/UCrPbAoQKz42Gm0mLdWatAEA">Zap das Galáxias</a>
 
 
-### How to use?
+### How to use? (Como usar)
 
-- Clone or download this repo
-- Enter to the project directory
+- Clone or download this repo (Clone ou faça o download do repositório)
+- Enter to the project directory (entre no repositório)
 - Run `npm install`
 - Run `npm run start:dev`
 - Open browser and go to address `http://localhost:8000`
 - Scan the QR Code
-- Enjoy!
+- Pronto Funcionando
 
 
-## Support Me
+## Suporte
 
-You can make a support for this work by <a href="https://zapdasgalaxias.com.br">Pedrinho da NASA</a>. Thanks
+O suporte para essa api pode ser feito pelo Pedro no link <a href="https://zapdasgalaxias.com.br">Pedrinho da NASA</a>. Thanks
 "# bot-zdg" 
